@@ -32,3 +32,4 @@ for i in range(len(newString)-1, -1, -1):
     idx = i
     cnt += 1
 print(newString2)
+ㄴ
