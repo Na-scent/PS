@@ -1,3 +1,5 @@
+# 디버깅 신경쓰기
+
 import sys
 
 n, m = map(int, input().split())
